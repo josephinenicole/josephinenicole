@@ -6,7 +6,7 @@ Ich mache eine Umschulung zur Fachinformatikerin für Anwendungsentwicklung und 
 
 ## 🚀 Meine Projekte:
 
-- **PHP / MySQL**  
+- **PHP / CSS / HTML /MySQL**  
   - [FSJ-Anmeldeplattform](https://github.com/josephinenicole/fsj_anmeldeplattform)  
     Anmeldeportal für Freiwilligendienst-Bewerber mit Datenbankanbindung. Bewerber können persönliche Daten eingeben und ihre Anmeldung verwalten.
 
@@ -14,8 +14,8 @@ Ich mache eine Umschulung zur Fachinformatikerin für Anwendungsentwicklung und 
   - [Länderspiel-App](https://github.com/josephinenicole/laenderquizz)  
     Ein Multiple-Choice-Quiz zur Geographie, bei dem Spieler Fragen zu Länderflaggen, Hauptstädten und Namen beantworten können. Mit Highscore-Liste und dynamischer Punkteanzeige.
 
-- **HTML / CSS / JavaScript**  
-  - [Onlineshop](https://github.com/josephinenicole/onlineshop)  
+- **PHP / CSS / MySQL**  
+  - [Secudrive Onlineshop](https://github.com/josephinenicole/webshop)  
     Ein kleiner Webshop mit Funktionen wie Produktdarstellung, Warenkorb und Bestellübersicht. Entwicklung mit Fokus auf Benutzerfreundlichkeit und einfachem Design.
 
 ## 👩‍💻 Mehr über mich:
