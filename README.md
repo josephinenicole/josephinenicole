@@ -1,21 +1,25 @@
-<h1>Hallo, ich bin Joséphine Nicole! </h1>
-<br/>
+# Hallo, ich bin Joséphine Nicole Baneck! 👋
 
-<p>Ich mache eine Umschulung zur Fachinformatikerin Anwendungsentwicklung.</p>
+Ich mache eine Umschulung zur Fachinformatikerin für Anwendungsentwicklung und bin leidenschaftlich daran interessiert, Softwarelösungen zu entwickeln, die sowohl funktional als auch benutzerfreundlich sind.
 
-<h2>👨‍💻 Hier sind meine Projekte: </h2>
-- <b>PowerShell</b> <br>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab) <br>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell) <br>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS) <br>
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM) <br>
-  <br>
-- <b>C# (.NET Desktop Applications)</b> <br>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC) <br>
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC) <br>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email) <br>
-  <br>
-- <b>Python</b><br>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+📚 Aktuell vertiefe ich mein Wissen in den Bereichen Webentwicklung und Datenbankanbindung. Außerdem arbeite ich daran, meine Programmierfähigkeiten durch praktische Projekte und kontinuierliches Lernen weiter zu verbessern.
 
+## 🚀 Meine Projekte:
 
+- **PHP / MySQL**  
+  - [FSJ-Anmeldeplattform](https://github.com/josephinenicole/fsj_anmeldeplattform)  
+    Anmeldeportal für Freiwilligendienst-Bewerber mit Datenbankanbindung. Bewerber können persönliche Daten eingeben und ihre Anmeldung verwalten.
+
+- **C# (.NET Desktop Applications)**  
+  - [Länderspiel-App](https://github.com/josephinenicole/laenderquizz)  
+    Ein Multiple-Choice-Quiz zur Geographie, bei dem Spieler Fragen zu Länderflaggen, Hauptstädten und Namen beantworten können. Mit Highscore-Liste und dynamischer Punkteanzeige.
+
+- **HTML / CSS / JavaScript**  
+  - [Onlineshop](https://github.com/josephinenicole/onlineshop)  
+    Ein kleiner Webshop mit Funktionen wie Produktdarstellung, Warenkorb und Bestellübersicht. Entwicklung mit Fokus auf Benutzerfreundlichkeit und einfachem Design.
+
+## 👩‍💻 Mehr über mich:
+
+- ✨ **Was mich antreibt:** Die Freude, Probleme mit kreativen Softwarelösungen zu lösen.
+- 🌱 **Was ich lerne:** Ich arbeite derzeit daran, meine Kenntnisse im Frontend-Development auszubauen.
+- 🎯 **Mein Ziel:** Einen Praktikumsplatz in einem innovativen Unternehmen zu finden, bei dem ich mein Wissen anwenden und erweitern kann.
