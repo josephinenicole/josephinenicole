@@ -1,4 +1,4 @@
-# Hallo, ich bin Joséphine Nicole Baneck! 👋
+# Hallo, ich bin Joséphine Nicole Baneck! 
 
 Ich mache eine Umschulung zur Fachinformatikerin für Anwendungsentwicklung und bin leidenschaftlich daran interessiert, Softwarelösungen zu entwickeln, die sowohl funktional als auch benutzerfreundlich sind.
 
